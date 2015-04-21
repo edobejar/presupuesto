@@ -5,6 +5,15 @@
   "type": "CC0-1.0",
   "url": "https://creativecommons.org/publicdomain/zero/1.0/"
   }],
+  "sources": [{
+    "name": "Ministerio de Finanzas",
+    "web": "http://www.finanzas.gob.ec/wp-content/uploads/downloads/2014/12/5B.CN_Por-Funci%C3%B3n-Sectorial-EntidadGastos.pdf"
+  }],
+  "maintainers":[{
+    "name": "Eduardo Bejar",
+    "email": "edobejar@gmail.com",
+    "web": "http://www.fundapi.org"
+  }],
   "resources": [
     {
       "name": "presupuesto",
