@@ -1,7 +1,10 @@
 {
   "name": "presupuesto",
   "title": "Proforma del Presupuesto General del Estado 2015 - Ecuador",
-  "license": "CC-Zero",
+  "licenses": [{
+  "type": "CC0-1.0",
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  }],
   "resources": [
     {
       "name": "presupuesto",
