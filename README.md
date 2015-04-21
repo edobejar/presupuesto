@@ -1,5 +1,5 @@
 # Proforma del Presupuesto General del Estado 2015 - Ecuador
-Data package de la Proforma del Presupuesto General del Estado 2015 - Ecuador.
+Datapackage de la Proforma del Presupuesto General del Estado 2015 - Ecuador.
 
 ##Datos
 
