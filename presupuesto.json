@@ -1,0 +1,52 @@
+{
+  "name": "presupuesto",
+  "title": "Proforma del Presupuesto General del Estado 2015 - Ecuador",
+  "license": "CC-Zero",
+  "resources": [
+    {
+      "name": "presupuesto",
+      "path": "data/presupuesto.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Identificador secuencial",
+            "type": "number"
+          },
+          {
+            "name": "FUNCION",
+            "description": "Función del Estado",
+            "type": "string"
+          },
+          {
+            "name": "CODIGO_SECTORIAL",
+            "description": "Código Sectorial",
+            "type": "string"
+          },
+          {
+            "name": "SECTORIAL",
+            "description": "Nombre de Sectorial",
+            "type": "string"
+          },
+          {
+            "name": "CODIGO_ENTIDAD",
+            "description": "Código de Entidad",
+            "type": "string"
+          },
+          {
+            "name": "ENTIDAD",
+            "description": "Nombre de Entidad",
+            "type": "string"
+          },
+          {
+            "name": "PRESUPUESTO",
+            "description": "Monto del presupuesto asignado en dólares de Estados Unidos",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ]
+}
